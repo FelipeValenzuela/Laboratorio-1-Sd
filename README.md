@@ -14,5 +14,6 @@ Una vez hecho esto se pueden hacer las consultas ingresandolas en el string my_q
 
 Integrantes
 
-Felipe Valenzuela Hernández
+Felipe Valenzuela Hernández,  
 Herman Barraza Barragán
+
